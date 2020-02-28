@@ -5,7 +5,7 @@
 
 ## Contributors
 
-<a href="https://github.com/Life176">Life176</a> -front end
+<a href="https://github.com/Life176">Life176</a> -front end </br>
 <a href="https://github.com/HaCsO">HaCsO</a> - back end
 
 ## Updates
