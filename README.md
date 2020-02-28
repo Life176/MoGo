@@ -11,5 +11,5 @@
 
 ## Contributors
 
-    [life176][https://github.com/Life176] - front end
-    [HaCsO][https://github.com/HaCsO] - back end
+[life176][https://github.com/Life176] - front end
+[HaCsO][https://github.com/HaCsO] - back end
