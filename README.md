@@ -3,14 +3,13 @@
     This is the site on which you can order:
     website development using your PSD, PSD, SEO
 
+## Contributors
+
+<a href="https://github.com/Life176">Life176</a> -front end
+<a href="https://github.com/HaCsO">HaCsO</a> - back end
+
 ## Updates
 
     --Add Shop page
 
     --Add register and login form
-
-## Contributors
-
-    [life176]:[https://github.com/Life176] - front end
-    
-    [HaCsO]:[https://github.com/HaCsO] - back end
