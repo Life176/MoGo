@@ -1,13 +1,3 @@
-
-<!-- 
-
-    TODO: 
-    
-    1) rename to HtmlLayout.php
-    2) on line 59 make a purchase event
-
- -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -57,9 +47,9 @@
                     money and a good mood :)
                 </p>
 
-                <a class="btn" href="#">
-                    Buy <!-- here -->
-                </a>
+                <form action="../../assets/php/pay.php" method="POST">
+                     <input class="btn" href="#" type="submit" name="buy" id="btn" value="Buy">
+                 </form>
             </div>
         </div>
     </div>

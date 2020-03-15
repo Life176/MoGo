@@ -65,9 +65,9 @@
         <div class="input-form">
             <input type="submit" name="login" value="Sign in">
         </div>
-		<div>
-			<p>Remember? </p>
-			<input type="checkbox" name="loginRemember"></input>
+		<div class="remember_inpt">
+			<input type="checkbox" name="loginRemember">Remember?</input>
+			<!-- <p class="remember-p">Remember? </p> -->
 		</div>
         <a href="register.php" class="forget">No account? Create!</a>
 	</form>

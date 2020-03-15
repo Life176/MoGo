@@ -72,4 +72,10 @@ body {
 	color: #f58a0f;
 }
 
-/* Form */
+/* remember */
+
+.remember_inpt {
+	color: #fff;
+	padding-left: 6rem;
+	padding-bottom: 15px;
+}

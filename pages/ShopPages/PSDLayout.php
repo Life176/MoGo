@@ -51,9 +51,9 @@
                     Postscript You can order the creation of it with us :)
                  </p>
  
-                 <a class="btn" href="#">
-                     Buy <!-- here -->
-                 </a>
+                 <form action="../../assets/php/pay.php" method="POST">
+                     <input class="btn" href="#" type="submit" name="buy" id="btn" value="Buy">
+                 </form>
              </div>
          </div>
      </div>
