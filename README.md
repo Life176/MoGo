@@ -1,7 +1,7 @@
 # MoGO
 
     This is the site on which you can order:
-    website development using your PSD, PSD, SEO
+    website development using your PSD, SEO
 
 ## Contributors
 
